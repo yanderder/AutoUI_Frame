@@ -1,0 +1,5 @@
+search:
+  - by: id
+    locator: com.yunshen.autobike:id/search_src_text
+    action: sendkeys
+    keys: ${address}

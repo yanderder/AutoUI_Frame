@@ -1,0 +1,6 @@
+goto_search:
+  - by: xpath
+    locator: //android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView
+    action: click
+
+

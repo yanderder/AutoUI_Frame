@@ -1,0 +1,8 @@
+[32mINFO    [0m root:wrapper.py:21 run find
+ args: 
+(<page.main.Main object at 0x03B8FD48>, 'xpath', '//android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView')
+{}
+[32mINFO    [0m root:wrapper.py:21 run find
+ args: 
+(<page.search_page.SearchPage object at 0x03B8FD90>, 'id', 'com.yunshen.autobike:id/search_src_text')
+{}
